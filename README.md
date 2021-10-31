@@ -1,5 +1,4 @@
-# Maintenance in progress...
-### Hi there 👋
+# Hi, I'm DaCuteRaccoon (:raccoon::computer::globe_with_meridians::airplane:)
 
 <!--
 **DaCuteRaccoon/DaCuteRaccoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
