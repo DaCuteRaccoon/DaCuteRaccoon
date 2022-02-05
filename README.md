@@ -1,7 +1,10 @@
 # DaCuteRaccoon (:raccoon::computer::globe_with_meridians::airplane:)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+Thanks to all of [my followers](https://github.com/DaCuteRaccoon?tab=followers)!
 
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+-->
 
 ---
 
