@@ -2,6 +2,11 @@
 
 Thanks to all of [my followers](https://github.com/DaCuteRaccoon?tab=followers)!
 
+![](https://avatars.githubusercontent.com/u/80350015?s=100&v=4)
+![](https://avatars.githubusercontent.com/u/69060894?s=100&v=4)
+![](https://avatars.githubusercontent.com/u/67765147?s=100&v=4)
+![](https://avatars.githubusercontent.com/u/95715605?s=100&v=4)
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 -->
