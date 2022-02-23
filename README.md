@@ -1,5 +1,6 @@
 # DaCuteRaccoon (:raccoon::computer::globe_with_meridians::airplane:)
 
+#### NOTE: I'M CURRENTLY ON VACATION, WON'T UPDATE MY FOLLOWER LIST UNTIL 2/28/2022
 Thanks to all of [my followers](https://github.com/DaCuteRaccoon?tab=followers)!
 
 <img src="https://avatars.githubusercontent.com/u/80350015?s=100&v=4" height="100" /> <img src="https://avatars.githubusercontent.com/u/69060894?s=100&v=4" height="100" /> <img src="https://avatars.githubusercontent.com/u/67765147?s=100&v=4" height="100" /> <img src="https://avatars.githubusercontent.com/u/95715605?s=100&v=4" height="100" />
