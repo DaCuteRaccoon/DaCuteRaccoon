@@ -28,3 +28,5 @@ Thanks to all of [my followers](https://github.com/DaCuteRaccoon?tab=followers)!
 <!-- markdownlint-enable MD033 -->
 
 ---
+
+###### FUN FACT: According to my stats, more than 2 &frac14; percent of the languages I code in are Rich Text Format!
