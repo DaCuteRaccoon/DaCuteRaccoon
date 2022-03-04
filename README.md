@@ -2,7 +2,7 @@
 
 Thanks to all of [my followers](https://github.com/DaCuteRaccoon?tab=followers)!
 
-<img alt="DevilGlitch" src="https://avatars.githubusercontent.com/u/73667748?s=100&v=4" height="100" /> <img alt="jasineri" src="https://avatars.githubusercontent.com/u/17604010?s=100&v=4" height="100" /> <img alt="Abdur-rahmaanJ" src="https://avatars.githubusercontent.com/u/22630684?s=100&v=4" height="100" /> <img alt="donnerkebab1730" src="https://avatars.githubusercontent.com/u/80350015?s=100&v=4" height="100" /> <img alt="afkvido" src="https://avatars.githubusercontent.com/u/69060894?s=100&v=4" height="100" /> <img alt="trippup" src="https://avatars.githubusercontent.com/u/67765147?s=100&v=4" height="100" /> <img alt="OceanWaveX" src="https://avatars.githubusercontent.com/u/95715605?s=100&v=4" height="100" />
+<img alt="Janitalha" src="https://avatars.githubusercontent.com/u/100528621?s=100&v=4" height="100" /> <img alt="DevilGlitch" src="https://avatars.githubusercontent.com/u/73667748?s=100&v=4" height="100" /> <img alt="jasineri" src="https://avatars.githubusercontent.com/u/17604010?s=100&v=4" height="100" /> <img alt="Abdur-rahmaanJ" src="https://avatars.githubusercontent.com/u/22630684?s=100&v=4" height="100" /> <img alt="donnerkebab1730" src="https://avatars.githubusercontent.com/u/80350015?s=100&v=4" height="100" /> <img alt="afkvido" src="https://avatars.githubusercontent.com/u/69060894?s=100&v=4" height="100" /> <img alt="trippup" src="https://avatars.githubusercontent.com/u/67765147?s=100&v=4" height="100" /> <img alt="OceanWaveX" src="https://avatars.githubusercontent.com/u/95715605?s=100&v=4" height="100" />
 
 You can see my followers API [here](https://api.github.com/users/DaCuteRaccoon/followers).
 <!--
