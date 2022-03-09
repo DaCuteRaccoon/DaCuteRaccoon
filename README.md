@@ -1,4 +1,6 @@
-# DaCuteRaccoon (:raccoon::computer::globe_with_meridians::airplane:)
+# DaCuteRaccoon (:raccoon::computer::globe_with_meridians::airplane::ukraine:)
+
+![Ukrainian Flag](https://github.githubassets.com/images/icons/emoji/unicode/1f1fa-1f1e6.png?v8)
 
 Thanks to all of [my followers](https://github.com/DaCuteRaccoon?tab=followers)!
 
