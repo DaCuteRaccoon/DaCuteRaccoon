@@ -33,4 +33,4 @@ You can see my followers API [here](https://api.github.com/users/DaCuteRaccoon/f
 
 ---
 
-###### FUN FACT: According to my stats, more than 2 &frac14; percent of the languages I code in are Rich Text Format!
+###### FUN FACT: According to my stats, more than 2 &frac14; percent of the languages I code in are Rich Text Format! (As of [Feb 23, 2022](https://github.com/DaCuteRaccoon/DaCuteRaccoon/commit/0c7419700295e2a33dfe0b0004ec6e698be6aa61), 23 days after the fun fact was written!)
